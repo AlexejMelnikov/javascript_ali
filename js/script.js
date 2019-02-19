@@ -11,7 +11,7 @@ const cartWrapper = document.querySelector('.cart__wrapper'),
 	  totalCost = document.querySelector('.cart__total>span'),
 	  titles = document.querySelectorAll('.goods__title'),
 	  empty = cartWrapper.querySelector('.empty');
-	  console.log(empty);
+	  
 	  
 
 	  function openCart() {
